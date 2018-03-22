@@ -1,0 +1,5 @@
+ACT
+CTC
+CTG
+TCT
+TGG
